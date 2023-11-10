@@ -40,8 +40,7 @@ namespace CSharp_Values
                 Console.WriteLine("Student Name:{0}", temp.Name);
                 Console.WriteLine("Student GPA:{0}", temp.GPA);
                 Console.WriteLine("\n");
-
-                //nsole.WriteLine("Student ID: {0}, Name: {1}, GPA {2}", hashtable.;
+                
             }
             
             
