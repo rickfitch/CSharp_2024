@@ -1,0 +1,39 @@
+﻿1234567890
+			
+202-555-0102
+202-555-0196
+202.555.0196
+202#555#0196
+0175/12345678
++49165/12312347
+0049165/12312347
+00?\d{3,5}/\d{8}|\+491\d{2}/\d{8}
+
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+LaLa La La LaLa
+
+Mr. Panjuta
+Mr Muller
+Mr Robertson
+Mr. G
+Ms Smith
+Ms Jackson
+Mr.?\s\w+|Ms.?\s\w+
+
+// Challenge - find website links
+https://www.tutorials.eu
+https://tutorials.eu
+http://www.tutorials.eu
+http://tutorials.eu
+https?://(www.)?\w+\.(\w+)
+
+
+test@test.com
+rickfitch@hotmail.com
+google "email regex"
+
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+
