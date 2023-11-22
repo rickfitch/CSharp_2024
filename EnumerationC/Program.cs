@@ -10,6 +10,7 @@
 
             CollectionSum(mylist);
             CollectionSum(myArray);
+            Console.ReadKey();
 
 
         }
